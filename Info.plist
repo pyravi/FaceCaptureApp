@@ -1,0 +1,4 @@
+<key>NSCameraUsageDescription</key>
+<string>Your custom message about why you need access to the camera</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Your custom message about why you need access to the photo library</string>

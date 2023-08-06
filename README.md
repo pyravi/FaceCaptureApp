@@ -34,3 +34,9 @@ This example shows how to take a picture and display it.
 - npm run android
 - npm run ios # you need to use macOS to build the iOS project - use the Expo app if you need to do iOS development without a Mac
 - npm run web
+## command for used for npm
+
+- npm start
+- npm install
+- expo start --android
+- expo start --ios
